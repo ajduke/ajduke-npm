@@ -1,7 +1,7 @@
 {
-  "name": "johnkpaul",
+  "name": "nealrs",
   "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "description": "Neal Shyam, on npm!",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
@@ -10,6 +10,6 @@
     "person",
     "contact"
   ],
-  "author": "John K. Paul",
+  "author": "Neal Shyam",
   "license": "ISC"
 }
