@@ -1,7 +1,7 @@
 {
-  "name": "nealrs",
+  "name": "ajduke",
   "version": "1.0.0",
-  "description": "Neal Shyam, on npm!",
+  "description": "Abhieet S (ajduke), on npm!",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
@@ -10,6 +10,6 @@
     "person",
     "contact"
   ],
-  "author": "Neal Shyam",
+  "author": "ajduke",
   "license": "ISC"
 }
