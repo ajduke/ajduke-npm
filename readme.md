@@ -1,18 +1,18 @@
 
-# nealrs
+# ajduke
 
 ```bash
-$ npm install nealrs
+$ npm install ajduke
 ```
 
 and
 
 ```js
-console.log(require('nealrs'));
+console.log(require('ajduke'));
 ```
 
 To get my contact information.
 
 ## Credits
 
-I found this via [bevacqua](https://github.com/bevacqua), who got it from [rauchg](https://github.com/rauchg), who got it from [johnkpaul](https://github.com/johnkpaul).
+I found this via [nealrs](https://github.com/ajduke), who got it from [bevacqua](https://github.com/bevacqua), who got it from [rauchg](https://github.com/rauchg), who got it from [johnkpaul](https://github.com/johnkpaul).
